@@ -1,39 +1,65 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-08-29 14:34:25
-categories: jekyll update
-tags: featured
+title:  "2020년 1월 대만/태국 여행"
+date:   2020-02-01 16:21:00
+categories: 
+tags:
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+2020년 1월 9일부터 1월 30일 까지의 여행을 정리해보았습니다.
 
-Jekyll also offers powerful support for code snippets:
+# 0. 인천공항에서 출발
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+!(https://slack-files.com/TT1D7UWE6-FTE702M7S-78f3e9bd07)
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+아침 8시 10분 출발하는 '이스타 항공'의 비행기를 타기 위해 인천공항에 도착했다.
+새벽 5시에 출발하는 공항 버스를 탔다.
+공항 버스에도 사람이 많더니 인천 공항에는 휴가철을 맞아 정말 많은 사람이 있었다.
+아직 폐렴 같은 게 유행하기 전이다.
 
-{% highlight js %}
+![화롄행 게이트]()
 
-<footer class="site-footer">
- <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-  <div class="inner">a
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-  </div>
-</footer>
-{% endhighlight %}
+이번 여행에선 계속 공항 제일 끝에 있는 게이트만 걸렸던 것 같다.
+화롄으로 가는 비행기는 아직 인기가 없어서인지 좌석이 절반 정도 밖에 채워지지 않았다.
+내 옆에는 어떤 부부가 있었는데 비어있는 뒷자리로 가버려서 혼자서 한 줄을 사용했다.
+
+![Beipu]()
+
+화롄 공항은 시내에서 떨어져 있기 때문에 보통 1시간 간격의 버스를 타거나 택시를 탄다.
+그런데 나는 걸어서 Beipu역 까지 갔다. (길을 헤매서 약 30분)
+그리고 화롄행 열차에 탑승.
+
+![정체모를 열매]()
+
+특이한 열매를 봤다. 이 나무 아래서 유모차를 끌고 산책하는 여성에게 첫 번째 중국어에 도전.
+"베이푸 역이 어디에요?"
+"??"
+"베이푸 역에 어떻게 가나요"
+"베이푸 역은 (어쩌고 저쩌고) 신호등 에서 왼쪽으로 가세요."
+
+# 1. 대만 화롄
+
+새벽부터 아무것도 못 먹고 화롄역에 도착했다. 보통 타이베이에서 당일치기로 화롄 여행을 하는 한국인이
+많아 역 앞에는 한국어로 타이루거 어쩌고 하는 호객 행위가 많았다.
+
+배고파서 식당을 찾아 10분 정도 걸었고 교자 집에 갔다. 나중에 타이베이에서 보니까 이건
+프랜차이즈 교자집이었다 (!)
+
+![교자집]()
+
+그리고 한자를 잘 못 읽어서 "한식 매운 만두" 라던가 "물만두" 정도 밖에 이해를 못했다.
+아무거나 2개씩 네 종류로 시키니까 점원이 최소 5개 주문 하라고 말해줬다.
+
+그래서 5개씩 2종류로 바꾼 다음 등장한 건 군만두.
+
+![군만두]()
 
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+# 2. 대만 타이베이
+# 3. 태국 방콕
+# 4. 태국 난
+# 5. 태국 파야오
+# 6. 태국 치앙라이
+# 7. 다시 태국 방콕
+# 8. 돈므앙 공항에서 출발
