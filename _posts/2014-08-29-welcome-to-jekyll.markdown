@@ -11,26 +11,26 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 
 # 0. 인천공항에서 출발
 
-![인천공항](https://slack-files.com/TT1D7UWE6-FTE702M7S-78f3e9bd07)
+![인천공항](https://files.slack.com/files-pri/TT1D7UWE6-FTE702M7S/20200109_060849.jpg?pub_secret=78f3e9bd07)
 
 아침 8시 10분 출발하는 '이스타 항공'의 비행기를 타기 위해 인천공항에 도착했다.
 새벽 5시에 출발하는 공항 버스를 탔다.
 공항 버스에도 사람이 많더니 인천 공항에는 휴가철을 맞아 정말 많은 사람이 있었다.
 아직 폐렴 같은 게 유행하기 전이다.
 
-![화롄행 게이트]()
+![화롄행 게이트](https://files.slack.com/files-pri/TT1D7UWE6-FT1DM7MPU/20200109_074653.jpg)
 
 이번 여행에선 계속 공항 제일 끝에 있는 게이트만 걸렸던 것 같다.
 화롄으로 가는 비행기는 아직 인기가 없어서인지 좌석이 절반 정도 밖에 채워지지 않았다.
 내 옆에는 어떤 부부가 있었는데 비어있는 뒷자리로 가버려서 혼자서 한 줄을 사용했다.
 
-![Beipu]()
+![Beipu 역에서 화롄 역으로](https://files.slack.com/files-pri/TT1D7UWE6-FT42KJ77B/20200109_114238.jpg)
 
 화롄 공항은 시내에서 떨어져 있기 때문에 보통 1시간 간격의 버스를 타거나 택시를 탄다.
 그런데 나는 걸어서 Beipu역 까지 갔다. (길을 헤매서 약 30분)
 그리고 화롄행 열차에 탑승.
 
-![정체모를 열매]()
+![정체모를 열매](https://files.slack.com/files-pri/TT1D7UWE6-FT42KJ75X/20200109_110604.jpg)
 
 특이한 열매를 봤다. 이 나무 아래서 유모차를 끌고 산책하는 여성에게 첫 번째 중국어에 도전.
 "베이푸 역이 어디에요?"
@@ -46,14 +46,14 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 배고파서 식당을 찾아 10분 정도 걸었고 교자 집에 갔다. 나중에 타이베이에서 보니까 이건
 프랜차이즈 교자집이었다 (!)
 
-![교자집]()
+![교자집](https://files.slack.com/files-pri/TT1D7UWE6-FTG3B17F1/20200109_120842.jpg)
 
 그리고 한자를 잘 못 읽어서 "한식 매운 만두" 라던가 "물만두" 정도 밖에 이해를 못했다.
 아무거나 2개씩 네 종류로 시키니까 점원이 최소 5개 주문 하라고 말해줬다.
 
 그래서 5개씩 2종류로 바꾼 다음 등장한 건 군만두.
 
-![군만두]()
+![군만두](https://files.slack.com/files-pri/TT1D7UWE6-FTE7ZETV3/20200109_121635.jpg)
 
 
 # 2. 대만 타이베이
