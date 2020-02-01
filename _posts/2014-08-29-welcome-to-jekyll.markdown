@@ -11,7 +11,7 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 
 # 0. 인천공항에서 출발
 
-!(https://slack-files.com/TT1D7UWE6-FTE702M7S-78f3e9bd07)
+![인천공항](https://slack-files.com/TT1D7UWE6-FTE702M7S-78f3e9bd07)
 
 아침 8시 10분 출발하는 '이스타 항공'의 비행기를 타기 위해 인천공항에 도착했다.
 새벽 5시에 출발하는 공항 버스를 탔다.
